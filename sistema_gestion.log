@@ -105,3 +105,157 @@
 2026-05-12 00:41:27,255 - ERROR - Fallo en reserva: La duración debe ser positiva.
 2026-05-12 00:41:27,255 - INFO - Reserva exitosa: 240000
 2026-05-12 00:41:27,256 - INFO - Reserva exitosa: 250000
+2026-05-12 01:03:39,791 - INFO - Sistema iniciado.
+2026-05-12 01:03:39,795 - INFO - Reserva exitosa: 150000
+2026-05-12 01:03:39,796 - WARNING - Fallo de cliente: Datos inválidos en cliente: 
+2026-05-12 01:03:39,796 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:39,797 - INFO - Reserva exitosa: 100000
+2026-05-12 01:03:39,797 - INFO - Reserva exitosa: 80000
+2026-05-12 01:03:39,797 - WARNING - Fallo de cliente: Datos inválidos en cliente: Invalido
+2026-05-12 01:03:39,798 - INFO - Reserva exitosa: 50000
+2026-05-12 01:03:39,798 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:39,798 - INFO - Reserva exitosa: 240000
+2026-05-12 01:03:39,798 - INFO - Reserva exitosa: 250000
+2026-05-12 01:03:42,302 - INFO - Sistema iniciado.
+2026-05-12 01:03:42,303 - INFO - Reserva exitosa: 150000
+2026-05-12 01:03:42,303 - WARNING - Fallo de cliente: Datos inválidos en cliente: 
+2026-05-12 01:03:42,304 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:42,304 - INFO - Reserva exitosa: 100000
+2026-05-12 01:03:42,304 - INFO - Reserva exitosa: 80000
+2026-05-12 01:03:42,305 - WARNING - Fallo de cliente: Datos inválidos en cliente: Invalido
+2026-05-12 01:03:42,305 - INFO - Reserva exitosa: 50000
+2026-05-12 01:03:42,305 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:42,306 - INFO - Reserva exitosa: 240000
+2026-05-12 01:03:42,306 - INFO - Reserva exitosa: 250000
+2026-05-12 01:03:45,297 - INFO - Sistema iniciado.
+2026-05-12 01:03:45,298 - INFO - Reserva exitosa: 150000
+2026-05-12 01:03:45,299 - WARNING - Fallo de cliente: Datos inválidos en cliente: 
+2026-05-12 01:03:45,299 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:45,299 - INFO - Reserva exitosa: 100000
+2026-05-12 01:03:45,299 - INFO - Reserva exitosa: 80000
+2026-05-12 01:03:45,300 - WARNING - Fallo de cliente: Datos inválidos en cliente: Invalido
+2026-05-12 01:03:45,300 - INFO - Reserva exitosa: 50000
+2026-05-12 01:03:45,300 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:45,301 - INFO - Reserva exitosa: 240000
+2026-05-12 01:03:45,301 - INFO - Reserva exitosa: 250000
+2026-05-12 01:03:47,632 - INFO - Sistema iniciado.
+2026-05-12 01:03:47,633 - INFO - Reserva exitosa: 150000
+2026-05-12 01:03:47,633 - WARNING - Fallo de cliente: Datos inválidos en cliente: 
+2026-05-12 01:03:47,634 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:47,634 - INFO - Reserva exitosa: 100000
+2026-05-12 01:03:47,635 - INFO - Reserva exitosa: 80000
+2026-05-12 01:03:47,635 - WARNING - Fallo de cliente: Datos inválidos en cliente: Invalido
+2026-05-12 01:03:47,635 - INFO - Reserva exitosa: 50000
+2026-05-12 01:03:47,636 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:47,636 - INFO - Reserva exitosa: 240000
+2026-05-12 01:03:47,636 - INFO - Reserva exitosa: 250000
+2026-05-12 01:03:50,224 - INFO - Sistema iniciado.
+2026-05-12 01:03:50,226 - INFO - Reserva exitosa: 150000
+2026-05-12 01:03:50,226 - WARNING - Fallo de cliente: Datos inválidos en cliente: 
+2026-05-12 01:03:50,226 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:50,227 - INFO - Reserva exitosa: 100000
+2026-05-12 01:03:50,227 - INFO - Reserva exitosa: 80000
+2026-05-12 01:03:50,228 - WARNING - Fallo de cliente: Datos inválidos en cliente: Invalido
+2026-05-12 01:03:50,228 - INFO - Reserva exitosa: 50000
+2026-05-12 01:03:50,228 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:50,229 - INFO - Reserva exitosa: 240000
+2026-05-12 01:03:50,229 - INFO - Reserva exitosa: 250000
+2026-05-12 01:03:51,209 - INFO - Sistema iniciado.
+2026-05-12 01:03:51,210 - INFO - Reserva exitosa: 150000
+2026-05-12 01:03:51,210 - WARNING - Fallo de cliente: Datos inválidos en cliente: 
+2026-05-12 01:03:51,211 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:51,211 - INFO - Reserva exitosa: 100000
+2026-05-12 01:03:51,211 - INFO - Reserva exitosa: 80000
+2026-05-12 01:03:51,212 - WARNING - Fallo de cliente: Datos inválidos en cliente: Invalido
+2026-05-12 01:03:51,212 - INFO - Reserva exitosa: 50000
+2026-05-12 01:03:51,212 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:51,213 - INFO - Reserva exitosa: 240000
+2026-05-12 01:03:51,213 - INFO - Reserva exitosa: 250000
+2026-05-12 01:03:52,362 - INFO - Sistema iniciado.
+2026-05-12 01:03:52,363 - INFO - Reserva exitosa: 150000
+2026-05-12 01:03:52,364 - WARNING - Fallo de cliente: Datos inválidos en cliente: 
+2026-05-12 01:03:52,364 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:52,364 - INFO - Reserva exitosa: 100000
+2026-05-12 01:03:52,364 - INFO - Reserva exitosa: 80000
+2026-05-12 01:03:52,365 - WARNING - Fallo de cliente: Datos inválidos en cliente: Invalido
+2026-05-12 01:03:52,365 - INFO - Reserva exitosa: 50000
+2026-05-12 01:03:52,365 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:52,366 - INFO - Reserva exitosa: 240000
+2026-05-12 01:03:52,366 - INFO - Reserva exitosa: 250000
+2026-05-12 01:03:53,902 - INFO - Sistema iniciado.
+2026-05-12 01:03:53,904 - INFO - Reserva exitosa: 150000
+2026-05-12 01:03:53,904 - WARNING - Fallo de cliente: Datos inválidos en cliente: 
+2026-05-12 01:03:53,904 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:53,904 - INFO - Reserva exitosa: 100000
+2026-05-12 01:03:53,905 - INFO - Reserva exitosa: 80000
+2026-05-12 01:03:53,905 - WARNING - Fallo de cliente: Datos inválidos en cliente: Invalido
+2026-05-12 01:03:53,905 - INFO - Reserva exitosa: 50000
+2026-05-12 01:03:53,906 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:53,906 - INFO - Reserva exitosa: 240000
+2026-05-12 01:03:53,906 - INFO - Reserva exitosa: 250000
+2026-05-12 01:03:54,957 - INFO - Sistema iniciado.
+2026-05-12 01:03:54,959 - INFO - Reserva exitosa: 150000
+2026-05-12 01:03:54,959 - WARNING - Fallo de cliente: Datos inválidos en cliente: 
+2026-05-12 01:03:54,959 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:54,960 - INFO - Reserva exitosa: 100000
+2026-05-12 01:03:54,960 - INFO - Reserva exitosa: 80000
+2026-05-12 01:03:54,960 - WARNING - Fallo de cliente: Datos inválidos en cliente: Invalido
+2026-05-12 01:03:54,960 - INFO - Reserva exitosa: 50000
+2026-05-12 01:03:54,960 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:54,961 - INFO - Reserva exitosa: 240000
+2026-05-12 01:03:54,961 - INFO - Reserva exitosa: 250000
+2026-05-12 01:03:56,440 - INFO - Sistema iniciado.
+2026-05-12 01:03:56,441 - INFO - Reserva exitosa: 150000
+2026-05-12 01:03:56,442 - WARNING - Fallo de cliente: Datos inválidos en cliente: 
+2026-05-12 01:03:56,442 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:56,443 - INFO - Reserva exitosa: 100000
+2026-05-12 01:03:56,443 - INFO - Reserva exitosa: 80000
+2026-05-12 01:03:56,443 - WARNING - Fallo de cliente: Datos inválidos en cliente: Invalido
+2026-05-12 01:03:56,443 - INFO - Reserva exitosa: 50000
+2026-05-12 01:03:56,444 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:56,444 - INFO - Reserva exitosa: 240000
+2026-05-12 01:03:56,444 - INFO - Reserva exitosa: 250000
+2026-05-12 01:03:57,521 - INFO - Sistema iniciado.
+2026-05-12 01:03:57,522 - INFO - Reserva exitosa: 150000
+2026-05-12 01:03:57,523 - WARNING - Fallo de cliente: Datos inválidos en cliente: 
+2026-05-12 01:03:57,523 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:57,523 - INFO - Reserva exitosa: 100000
+2026-05-12 01:03:57,524 - INFO - Reserva exitosa: 80000
+2026-05-12 01:03:57,524 - WARNING - Fallo de cliente: Datos inválidos en cliente: Invalido
+2026-05-12 01:03:57,524 - INFO - Reserva exitosa: 50000
+2026-05-12 01:03:57,525 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:57,525 - INFO - Reserva exitosa: 240000
+2026-05-12 01:03:57,525 - INFO - Reserva exitosa: 250000
+2026-05-12 01:03:58,455 - INFO - Sistema iniciado.
+2026-05-12 01:03:58,456 - INFO - Reserva exitosa: 150000
+2026-05-12 01:03:58,457 - WARNING - Fallo de cliente: Datos inválidos en cliente: 
+2026-05-12 01:03:58,457 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:58,458 - INFO - Reserva exitosa: 100000
+2026-05-12 01:03:58,458 - INFO - Reserva exitosa: 80000
+2026-05-12 01:03:58,459 - WARNING - Fallo de cliente: Datos inválidos en cliente: Invalido
+2026-05-12 01:03:58,459 - INFO - Reserva exitosa: 50000
+2026-05-12 01:03:58,459 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:58,460 - INFO - Reserva exitosa: 240000
+2026-05-12 01:03:58,460 - INFO - Reserva exitosa: 250000
+2026-05-12 01:03:59,499 - INFO - Sistema iniciado.
+2026-05-12 01:03:59,501 - INFO - Reserva exitosa: 150000
+2026-05-12 01:03:59,501 - WARNING - Fallo de cliente: Datos inválidos en cliente: 
+2026-05-12 01:03:59,501 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:59,502 - INFO - Reserva exitosa: 100000
+2026-05-12 01:03:59,502 - INFO - Reserva exitosa: 80000
+2026-05-12 01:03:59,503 - WARNING - Fallo de cliente: Datos inválidos en cliente: Invalido
+2026-05-12 01:03:59,503 - INFO - Reserva exitosa: 50000
+2026-05-12 01:03:59,503 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:03:59,504 - INFO - Reserva exitosa: 240000
+2026-05-12 01:03:59,504 - INFO - Reserva exitosa: 250000
+2026-05-12 01:04:00,608 - INFO - Sistema iniciado.
+2026-05-12 01:04:00,609 - INFO - Reserva exitosa: 150000
+2026-05-12 01:04:00,609 - WARNING - Fallo de cliente: Datos inválidos en cliente: 
+2026-05-12 01:04:00,610 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:04:00,610 - INFO - Reserva exitosa: 100000
+2026-05-12 01:04:00,610 - INFO - Reserva exitosa: 80000
+2026-05-12 01:04:00,611 - WARNING - Fallo de cliente: Datos inválidos en cliente: Invalido
+2026-05-12 01:04:00,611 - INFO - Reserva exitosa: 50000
+2026-05-12 01:04:00,611 - ERROR - Fallo en reserva: La duración debe ser positiva.
+2026-05-12 01:04:00,612 - INFO - Reserva exitosa: 240000
+2026-05-12 01:04:00,612 - INFO - Reserva exitosa: 250000
